@@ -1,0 +1,5 @@
+# -*- coding:utf-8 -*-
+
+RADIUS = 15
+SCREEN_WIDTH = 1400
+SCREEN_HEIGHT = 800
